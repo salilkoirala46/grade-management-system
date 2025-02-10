@@ -1,0 +1,10 @@
+/* main.css */
+
+/* 1. Base styles (Tailwind’s defaults) */
+@tailwind base;
+
+/* 2. Component classes */
+@tailwind components;
+
+/* 3. Utility classes */
+@tailwind utilities;
